@@ -48,3 +48,10 @@
   color: #f1356d;
   margin-bottom: 8px;
 }
+
+#loading {
+  width: 45px;
+  display: inline;
+  align-items: center;
+  justify-content: center;
+}

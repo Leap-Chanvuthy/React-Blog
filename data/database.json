@@ -1,0 +1,22 @@
+{
+    "blogs" : [
+        {
+            "title" : "Web development" ,
+            "body" : "Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site." ,
+            "author" : "Leap Chanvuthy" ,
+            "id" : 1
+        },
+        {
+            "title" : "Mobile development" ,
+            "body" : "Mobile developers specialise in developing software for Android and iOS mobile devices. Mobile developers focus on developing apps for mobile devices. They're also known as Android or iOS developers if they work on one platform, but it's common for developers to work on both." ,
+            "author" : "The Net Ninja" ,
+            "id" : 2
+        },
+        {
+            "title" : "FullStacks developement" ,
+            "body" : "A full-stack developer is a developer or engineer who can build both the front end and the back end of a website. The front end (the parts of a website a user sees and interacts with) and the back end (the behind-the-scenes data storage and processing) require different skill sets." ,
+            "author" : "Jame Cooper" ,
+            "id" : 3
+        }
+    ]
+}
